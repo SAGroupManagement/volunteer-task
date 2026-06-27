@@ -11,6 +11,8 @@ Aplicație web pentru managementul taskurilor unui grup de voluntari.
 
 ---
 
+
+
 ## Ghid de setup pas cu pas
 
 ### Pasul 1 — Creează cont pe Supabase (baza de date gratuită)
